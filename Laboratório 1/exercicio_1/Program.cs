@@ -28,7 +28,7 @@ namespace exercicio_1
             altura = float.Parse(Console.ReadLine());
             Console.WriteLine();
 
-            Console.WriteLine("Aperte qualquer tecla para exibir o resultado");
+            Console.WriteLine("Aperte Enter para exibir o resultado");
             Console.ReadLine();
             Console.WriteLine();
 
@@ -43,9 +43,9 @@ namespace exercicio_1
             //Calcula o IMC
             imc = (peso / (altura * altura));
 
-            if (imc < 18.5)
+            if (imc < 18.4)
                 Console.WriteLine("Peso abaixo do normal, peça uma pizza!");
-            else if ((imc < 18.5) && (imc > 24.9))
+            else if ((imc > 18.5) && (imc < 24.9))
                 Console.WriteLine("Parabéns " + nome + " você está em seu peso normal!");
             else if ((imc > 25) && (imc < 29.9))
                 Console.WriteLine("Você está acima de seu peso (sobrepeso).");
@@ -66,7 +66,10 @@ namespace exercicio_1
             
             //Resultado
             Console.WriteLine("Seu peso ideal é entre: " + metaMin + "kg e " + metaMax + "kg");
-            if (imc > 18.5)
+            
+            if ((imc < 18.5) && (imc > 24.9))
+                Console.WriteLine("Você está no peso ideal!");
+            else if (imc > 24.9)
                 Console.WriteLine("Você precisa perder pelo menos " + perder + "kg");
             else if (imc < 18.5)
                 Console.WriteLine("Você precisa ganhar pelo menos " + ganhar + "kg");
