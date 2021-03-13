@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\exercicio_1\\exercicio_1\\exercicio_1.csproj": {}
+    "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\Laboratório 1\\exercicio_1\\exercicio_1.csproj": {}
   },
   "projects": {
-    "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\exercicio_1\\exercicio_1\\exercicio_1.csproj": {
+    "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\Laboratório 1\\exercicio_1\\exercicio_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\exercicio_1\\exercicio_1\\exercicio_1.csproj",
+        "projectUniqueName": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\Laboratório 1\\exercicio_1\\exercicio_1.csproj",
         "projectName": "exercicio_1",
-        "projectPath": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\exercicio_1\\exercicio_1\\exercicio_1.csproj",
+        "projectPath": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\Laboratório 1\\exercicio_1\\exercicio_1.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\exercicio_1\\exercicio_1\\obj\\",
+        "outputPath": "D:\\Alexandre\\Trabalhos\\Universidade\\Jogos Digitais\\Orientação e Estrutura de dados\\Exercicio 1\\Laboratório 1\\exercicio_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

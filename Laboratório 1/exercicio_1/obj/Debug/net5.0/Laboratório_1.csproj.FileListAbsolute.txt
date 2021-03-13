@@ -1,0 +1,15 @@
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.exe
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.deps.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.runtimeconfig.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.runtimeconfig.dev.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\ref\Laboratório_1.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\bin\Debug\net5.0\Laboratório_1.pdb
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.AssemblyInfoInputs.cache
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.AssemblyInfo.cs
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.csproj.CoreCompileInputs.cache
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\ref\Laboratório_1.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.pdb
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Exercicio 1\Laboratório 1\exercicio_1\obj\Debug\net5.0\Laboratório_1.genruntimeconfig.cache
