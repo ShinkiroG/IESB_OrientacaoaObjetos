@@ -1,0 +1,16 @@
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.exe
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.deps.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.runtimeconfig.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.runtimeconfig.dev.json
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\ref\Laboratório 3.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\bin\Debug\net5.0\Laboratório 3.pdb
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.csprojAssemblyReference.cache
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.AssemblyInfoInputs.cache
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.AssemblyInfo.cs
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.csproj.CoreCompileInputs.cache
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\ref\Laboratório 3.dll
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.pdb
+D:\Alexandre\Trabalhos\Universidade\Jogos Digitais\Orientação e Estrutura de dados\Labs\IESB_OrientacaoaObjetos\Laboratório 3\Lab3\Laboratório 3\obj\Debug\net5.0\Laboratório 3.genruntimeconfig.cache
